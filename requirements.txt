@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+openai-agents[voice]
+python-docx
+PyPDF2
+python-multipart
